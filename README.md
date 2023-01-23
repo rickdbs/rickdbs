@@ -11,7 +11,7 @@
 - ⚡ Fun fact: An awesome Cs player
 
 
-<!--
+
 
 <br><br>
 
@@ -34,7 +34,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rickdbs&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickdbs&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
--->
+
 
 <br><br>
 
