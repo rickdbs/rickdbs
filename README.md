@@ -42,7 +42,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/rickdbss" target="_blank">
-  <img align="center" src="https://https://img.shields.io/badge/-Henrique_de_Brito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-Henrique_de_Brito-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/henrique-de-brito-5b692121a/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Henrique_de_Brito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
