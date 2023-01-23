@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/rickdbs/e553785d3cb654d69c3ecd027060a565/raw/2448b7955854e8b82c572e43aae9435c00952b9e/githubcard.svg"/>
+<img align="right" height="570em" src="https://raw.githubusercontent.com/gist/rickdbs/e553785d3cb654d69c3ecd027060a565/raw/2448b7955854e8b82c572e43aae9435c00952b9e/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Henrique de Brito</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickdbs&color=red" alt="Profile views" /> </p>
 
